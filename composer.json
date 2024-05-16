@@ -1,0 +1,17 @@
+{
+    "name": "taimoor/sql-quires",
+    "autoload": {
+        "psr-4": {
+            "Taimoor\\SqlQuires\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taimoor Ahmed",
+            "email": "taimoor.ahmed@bitcraftx.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
